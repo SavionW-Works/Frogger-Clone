@@ -3,7 +3,7 @@ A re-creation of Frogger I made to start learning Game Dev.
 The build in the repo is for **Windows (64-Bit)** Devices.
 
 **Info:** 
-- This is a clone of Frogger I made with a Unity Tutorial. 
+- This is a clone of Frogger I made with a Unity Tutorial (https://www.youtube.com/watch?v=GxlxZ5q__Tc  ) 
 
 - It has a single level, obstacles, lives, score, and a timer 
 
