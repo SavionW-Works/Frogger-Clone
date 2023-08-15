@@ -1,5 +1,5 @@
 # Frogger-Clone
-A re-creation of Frogger I made to start learning Game Dev. 
+A re-creation of **Frogger** I made in **Unity** to start learning Game Dev. 
 The build in the repo is for **Windows (64-Bit)** Devices.
 
 **Info:** 
